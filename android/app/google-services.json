@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "8063095959",
+    "project_id": "konsta-music-app",
+    "storage_bucket": "konsta-music-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8063095959:android:7f94b476e8a415a5fb05d2",
+        "android_client_info": {
+          "package_name": "com.uz.m.abbos.music_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8063095959-vkkv33ldlenf2fdt282150j4j81nshj0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOSNSUqFc-Lzfewjift2DzLfxN9mMtuSI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8063095959-vkkv33ldlenf2fdt282150j4j81nshj0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
